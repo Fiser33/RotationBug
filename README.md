@@ -2,7 +2,7 @@
 This repository has been created to demonstrate a bug on iPadOS 13 on device rotations
 
 ## Issue:
-On iPadOS 13, there is a UI glitch related to device rotations. When a controller is locked to portrait only orientation and presentsmodally another controller that supports all orientations, the glitch occurs. See gif images attached at the end of this file.
+On iPadOS 13, there is a UI glitch related to device rotations. When a controller is locked to portrait only orientation and presents modally another controller that supports all orientations, the glitch occurs. See gif images attached at the end of this file.
 
 ## Steps to reproduce:
 1. Clone this project
